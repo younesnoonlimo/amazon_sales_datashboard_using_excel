@@ -50,9 +50,6 @@ The data is sourced from Kaggle's **Amazon Sales Dataset (2025)**.
 
 ---
 
-## Contact
-
-For questions or feedback, please contact [Your Name] at [Your Email].
 
 ---
 
